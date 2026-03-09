@@ -1,0 +1,1662 @@
+{
+  "2002": {
+    "East": {
+      "16": [
+        "Siena",
+        "Alcorn St."
+      ],
+      "1": "Maryland",
+      "8": "Wisconsin",
+      "9": "St. John's",
+      "5": "Marquette",
+      "12": "Tulsa",
+      "4": "Kentucky",
+      "13": "Valparaiso",
+      "6": "Texas Tech",
+      "11": "Southern Illinois",
+      "3": "Georgia",
+      "14": "Murray St.",
+      "7": "N.C. State",
+      "10": "Michigan St.",
+      "2": "Connecticut",
+      "15": "Hampton"
+    },
+    "Midwest": {
+      "1": "Kansas",
+      "16": "Holy Cross",
+      "8": "Stanford",
+      "9": "Western Kentucky",
+      "5": "Florida",
+      "12": "Creighton",
+      "4": "Illinois",
+      "13": "San Diego St.",
+      "6": "Texas",
+      "11": "Boston College",
+      "3": "Mississippi St.",
+      "14": "McNeese St.",
+      "7": "Wake Forest",
+      "10": "Pepperdine",
+      "2": "Oregon",
+      "15": "Montana"
+    },
+    "South": {
+      "1": "Duke",
+      "16": "Winthrop",
+      "8": "Notre Dame",
+      "9": "Charlotte",
+      "5": "Indiana",
+      "12": "Utah",
+      "4": "USC",
+      "13": "UNC Wilmington",
+      "6": "California",
+      "11": "Penn",
+      "3": "Pittsburgh",
+      "14": "Central Connecticut",
+      "7": "Oklahoma St.",
+      "10": "Kent St.",
+      "2": "Alabama",
+      "15": "Florida Atlantic"
+    },
+    "West": {
+      "1": "Cincinnati",
+      "16": "Boston University",
+      "8": "UCLA",
+      "9": "Mississippi",
+      "5": "Miami FL",
+      "12": "Missouri",
+      "4": "Ohio St.",
+      "13": "Davidson",
+      "6": "Gonzaga",
+      "11": "Wyoming",
+      "3": "Arizona",
+      "14": "UC Santa Barbara",
+      "7": "Xavier",
+      "10": "Hawaii",
+      "2": "Oklahoma",
+      "15": "UIC"
+    }
+  },
+  "2003": {
+    "East": {
+      "1": "Oklahoma",
+      "16": "South Carolina St.",
+      "8": "California",
+      "9": "N.C. State",
+      "5": "Mississippi St.",
+      "12": "Butler",
+      "4": "Louisville",
+      "13": "Austin Peay",
+      "6": "Oklahoma St.",
+      "11": "Penn",
+      "3": "Syracuse",
+      "14": "Manhattan",
+      "7": "St. Joseph's",
+      "10": "Auburn",
+      "2": "Wake Forest",
+      "15": "ETSU"
+    },
+    "Midwest": {
+      "1": "Kentucky",
+      "16": "IU Indianapolis",
+      "8": "Oregon",
+      "9": "Utah",
+      "5": "Wisconsin",
+      "12": "Weber St.",
+      "4": "Dayton",
+      "13": "Tulsa",
+      "6": "Missouri",
+      "11": "Southern Illinois",
+      "3": "Marquette",
+      "14": "Holy Cross",
+      "7": "Indiana",
+      "10": "Alabama",
+      "2": "Pittsburgh",
+      "15": "Wagner"
+    },
+    "South": {
+      "16": [
+        "Texas Southern",
+        "UNC Asheville"
+      ],
+      "1": "Texas",
+      "8": "LSU",
+      "9": "Purdue",
+      "5": "Connecticut",
+      "12": "BYU",
+      "4": "Stanford",
+      "13": "San Diego",
+      "6": "Maryland",
+      "11": "UNC Wilmington",
+      "3": "Xavier",
+      "14": "Troy",
+      "7": "Michigan St.",
+      "10": "Colorado",
+      "2": "Florida",
+      "15": "Sam Houston"
+    },
+    "West": {
+      "1": "Arizona",
+      "16": "Vermont",
+      "8": "Cincinnati",
+      "9": "Gonzaga",
+      "5": "Notre Dame",
+      "12": "Milwaukee",
+      "4": "Illinois",
+      "13": "Western Kentucky",
+      "6": "Creighton",
+      "11": "Central Michigan",
+      "3": "Duke",
+      "14": "Colorado St.",
+      "7": "Memphis",
+      "10": "Arizona St.",
+      "2": "Kansas",
+      "15": "Utah St."
+    }
+  },
+  "2004": {
+    "Stlouis": {
+      "16": [
+        "Lehigh",
+        "Florida A&M"
+      ]
+    }
+  },
+  "2005": {
+    "Syracuse": {
+      "16": [
+        "Oakland",
+        "Alabama A&M"
+      ]
+    }
+  },
+  "2006": {
+    "Minneapolis": {
+      "16": [
+        "Monmouth",
+        "Hampton"
+      ]
+    }
+  },
+  "2007": {
+    "East": {
+      "1": "North Carolina",
+      "16": "Eastern Kentucky",
+      "8": "Marquette",
+      "9": "Michigan St.",
+      "5": "USC",
+      "12": "Arkansas",
+      "4": "Texas",
+      "13": "New Mexico St.",
+      "6": "Vanderbilt",
+      "11": "George Washington",
+      "3": "Washington St.",
+      "14": "Oral Roberts",
+      "7": "Boston College",
+      "10": "Texas Tech",
+      "2": "Georgetown",
+      "15": "Belmont"
+    },
+    "Midwest": {
+      "1": "Florida",
+      "16": "Jackson St.",
+      "8": "Arizona",
+      "9": "Purdue",
+      "5": "Butler",
+      "12": "Old Dominion",
+      "4": "Maryland",
+      "13": "Davidson",
+      "6": "Notre Dame",
+      "11": "Winthrop",
+      "3": "Oregon",
+      "14": "Miami (OH)",
+      "7": "UNLV",
+      "10": "Georgia Tech",
+      "2": "Wisconsin",
+      "15": "Texas A&M Corpus Chris"
+    },
+    "South": {
+      "1": "Ohio St.",
+      "16": "Central Connecticut",
+      "8": "BYU",
+      "9": "Xavier",
+      "5": "Tennessee",
+      "12": "Long Beach St.",
+      "4": "Virginia",
+      "13": "Albany (NY)",
+      "6": "Louisville",
+      "11": "Stanford",
+      "3": "Texas A&M",
+      "14": "Penn",
+      "7": "Nevada",
+      "10": "Creighton",
+      "2": "Memphis",
+      "15": "North Texas"
+    },
+    "West": {
+      "16": [
+        "Niagara",
+        "Florida A&M"
+      ],
+      "1": "Kansas",
+      "8": "Kentucky",
+      "9": "Villanova",
+      "5": "Virginia Tech",
+      "12": "Illinois",
+      "4": "Southern Illinois",
+      "13": "Holy Cross",
+      "6": "Duke",
+      "11": "VCU",
+      "3": "Pittsburgh",
+      "14": "Wright St.",
+      "7": "Indiana",
+      "10": "Gonzaga",
+      "2": "UCLA",
+      "15": "Weber St."
+    }
+  },
+  "2008": {
+    "East": {
+      "16": [
+        "Mount St. Mary's",
+        "Coppin St."
+      ],
+      "1": "North Carolina",
+      "8": "Indiana",
+      "9": "Arkansas",
+      "5": "Notre Dame",
+      "12": "George Mason",
+      "4": "Washington St.",
+      "13": "Winthrop",
+      "6": "Oklahoma",
+      "11": "St. Joseph's",
+      "3": "Louisville",
+      "14": "Boise St.",
+      "7": "Butler",
+      "10": "South Alabama",
+      "2": "Tennessee",
+      "15": "American"
+    },
+    "Midwest": {
+      "1": "Kansas",
+      "16": "Portland St.",
+      "8": "UNLV",
+      "9": "Kent St.",
+      "5": "Clemson",
+      "12": "Villanova",
+      "4": "Vanderbilt",
+      "13": "Siena",
+      "6": "USC",
+      "11": "Kansas St.",
+      "3": "Wisconsin",
+      "14": "Cal St. Fullerton",
+      "7": "Gonzaga",
+      "10": "Davidson",
+      "2": "Georgetown",
+      "15": "UMBC"
+    },
+    "South": {
+      "1": "Memphis",
+      "16": "UT Arlington",
+      "8": "Mississippi St.",
+      "9": "Oregon",
+      "5": "Michigan St.",
+      "12": "Temple",
+      "4": "Pittsburgh",
+      "13": "Oral Roberts",
+      "6": "Marquette",
+      "11": "Kentucky",
+      "3": "Stanford",
+      "14": "Cornell",
+      "7": "Miami FL",
+      "10": "Saint Mary's",
+      "2": "Texas",
+      "15": "Austin Peay"
+    },
+    "West": {
+      "1": "UCLA",
+      "16": "Mississippi Valley St.",
+      "8": "BYU",
+      "9": "Texas A&M",
+      "5": "Drake",
+      "12": "Western Kentucky",
+      "4": "Connecticut",
+      "13": "San Diego",
+      "6": "Purdue",
+      "11": "Baylor",
+      "3": "Xavier",
+      "14": "Georgia",
+      "7": "West Virginia",
+      "10": "Arizona",
+      "2": "Duke",
+      "15": "Belmont"
+    }
+  },
+  "2009": {
+    "East": {
+      "1": "Pittsburgh",
+      "16": "ETSU",
+      "8": "Oklahoma St.",
+      "9": "Tennessee",
+      "5": "Florida St.",
+      "12": "Wisconsin",
+      "4": "Xavier",
+      "13": "Portland St.",
+      "6": "UCLA",
+      "11": "VCU",
+      "3": "Villanova",
+      "14": "American",
+      "7": "Texas",
+      "10": "Minnesota",
+      "2": "Duke",
+      "15": "Binghamton"
+    },
+    "Midwest": {
+      "16": [
+        "Morehead St.",
+        "Alabama St."
+      ],
+      "1": "Louisville",
+      "8": "Ohio St.",
+      "9": "Siena",
+      "5": "Utah",
+      "12": "Arizona",
+      "4": "Wake Forest",
+      "13": "Cleveland St.",
+      "6": "West Virginia",
+      "11": "Dayton",
+      "3": "Kansas",
+      "14": "North Dakota St.",
+      "7": "Boston College",
+      "10": "USC",
+      "2": "Michigan St.",
+      "15": "Robert Morris"
+    },
+    "South": {
+      "1": "North Carolina",
+      "16": "Radford",
+      "8": "LSU",
+      "9": "Butler",
+      "5": "Illinois",
+      "12": "Western Kentucky",
+      "4": "Gonzaga",
+      "13": "Akron",
+      "6": "Arizona St.",
+      "11": "Temple",
+      "3": "Syracuse",
+      "14": "Stephen F. Austin",
+      "7": "Clemson",
+      "10": "Michigan",
+      "2": "Oklahoma",
+      "15": "Morgan St."
+    },
+    "West": {
+      "1": "Connecticut",
+      "16": "Chattanooga",
+      "8": "BYU",
+      "9": "Texas A&M",
+      "5": "Purdue",
+      "12": "Northern Iowa",
+      "4": "Washington",
+      "13": "Mississippi St.",
+      "6": "Marquette",
+      "11": "Utah St.",
+      "3": "Missouri",
+      "14": "Cornell",
+      "7": "California",
+      "10": "Maryland",
+      "2": "Memphis",
+      "15": "Cal St. Northridge"
+    }
+  },
+  "2010": {
+    "East": {
+      "1": "Kentucky",
+      "16": "ETSU",
+      "8": "Texas",
+      "9": "Wake Forest",
+      "5": "Temple",
+      "12": "Cornell",
+      "4": "Wisconsin",
+      "13": "Wofford",
+      "6": "Marquette",
+      "11": "Washington",
+      "3": "New Mexico",
+      "14": "Montana",
+      "7": "Clemson",
+      "10": "Missouri",
+      "2": "West Virginia",
+      "15": "Morgan St."
+    },
+    "Midwest": {
+      "1": "Kansas",
+      "16": "Lehigh",
+      "8": "UNLV",
+      "9": "Northern Iowa",
+      "5": "Michigan St.",
+      "12": "New Mexico St.",
+      "4": "Maryland",
+      "13": "Houston",
+      "6": "Tennessee",
+      "11": "San Diego St.",
+      "3": "Georgetown",
+      "14": "Ohio",
+      "7": "Oklahoma St.",
+      "10": "Georgia Tech",
+      "2": "Ohio St.",
+      "15": "UC Santa Barbara"
+    },
+    "South": {
+      "16": [
+        "Winthrop",
+        "Arkansas-Pine Bluff"
+      ],
+      "1": "Duke",
+      "8": "California",
+      "9": "Louisville",
+      "5": "Texas A&M",
+      "12": "Utah St.",
+      "4": "Purdue",
+      "13": "Siena",
+      "6": "Notre Dame",
+      "11": "Old Dominion",
+      "3": "Baylor",
+      "14": "Sam Houston",
+      "7": "Richmond",
+      "10": "Saint Mary's",
+      "2": "Villanova",
+      "15": "Robert Morris"
+    },
+    "West": {
+      "1": "Syracuse",
+      "16": "Vermont",
+      "8": "Gonzaga",
+      "9": "Florida St.",
+      "5": "Butler",
+      "12": "UTEP",
+      "4": "Vanderbilt",
+      "13": "Murray St.",
+      "6": "Xavier",
+      "11": "Minnesota",
+      "3": "Pittsburgh",
+      "14": "Oakland",
+      "7": "BYU",
+      "10": "Florida",
+      "2": "Kansas St.",
+      "15": "North Texas"
+    }
+  },
+  "2011": {
+    "East": {
+      "12": [
+        "Clemson",
+        "UAB"
+      ],
+      "16": [
+        "UTSA",
+        "Alabama St."
+      ],
+      "1": "Ohio St.",
+      "8": "George Mason",
+      "9": "Villanova",
+      "5": "West Virginia",
+      "4": "Kentucky",
+      "13": "Princeton",
+      "6": "Xavier",
+      "11": "Marquette",
+      "3": "Syracuse",
+      "14": "Indiana St.",
+      "7": "Washington",
+      "10": "Georgia",
+      "2": "North Carolina",
+      "15": "LIU"
+    },
+    "Southeast": {
+      "16": [
+        "UNC Asheville",
+        "Little Rock"
+      ]
+    },
+    "Southwest": {
+      "11": [
+        "VCU",
+        "USC"
+      ]
+    },
+    "West": {
+      "1": "Duke",
+      "16": "Hampton",
+      "8": "Michigan",
+      "9": "Tennessee",
+      "5": "Arizona",
+      "12": "Memphis",
+      "4": "Texas",
+      "13": "Oakland",
+      "6": "Cincinnati",
+      "11": "Missouri",
+      "3": "Connecticut",
+      "14": "Bucknell",
+      "7": "Temple",
+      "10": "Penn St.",
+      "2": "San Diego St.",
+      "15": "Northern Colorado"
+    }
+  },
+  "2012": {
+    "East": {
+      "1": "Syracuse",
+      "16": "UNC Asheville",
+      "8": "Kansas St.",
+      "9": "Southern Miss",
+      "5": "Vanderbilt",
+      "12": "Harvard",
+      "4": "Wisconsin",
+      "13": "Montana",
+      "6": "Cincinnati",
+      "11": "Texas",
+      "3": "Florida St.",
+      "14": "St. Bonaventure",
+      "7": "Gonzaga",
+      "10": "West Virginia",
+      "2": "Ohio St.",
+      "15": "Loyola (MD)"
+    },
+    "Midwest": {
+      "12": [
+        "South Florida",
+        "California"
+      ],
+      "16": [
+        "Vermont",
+        "Lamar"
+      ],
+      "1": "North Carolina",
+      "8": "Creighton",
+      "9": "Alabama",
+      "5": "Temple",
+      "4": "Michigan",
+      "13": "Ohio",
+      "6": "San Diego St.",
+      "11": "N.C. State",
+      "3": "Georgetown",
+      "14": "Belmont",
+      "7": "Saint Mary's",
+      "10": "Purdue",
+      "2": "Kansas",
+      "15": "Detroit Mercy"
+    },
+    "South": {
+      "16": [
+        "Western Kentucky",
+        "Mississippi Valley St."
+      ],
+      "1": "Kentucky",
+      "8": "Iowa St.",
+      "9": "Connecticut",
+      "5": "Wichita St.",
+      "12": "VCU",
+      "4": "Indiana",
+      "13": "New Mexico St.",
+      "6": "UNLV",
+      "11": "Colorado",
+      "3": "Baylor",
+      "14": "South Dakota St.",
+      "7": "Notre Dame",
+      "10": "Xavier",
+      "2": "Duke",
+      "15": "Lehigh"
+    },
+    "West": {
+      "14": [
+        "Iona",
+        "BYU"
+      ],
+      "1": "Michigan St.",
+      "16": "LIU",
+      "8": "Memphis",
+      "9": "Saint Louis",
+      "5": "New Mexico",
+      "12": "Long Beach St.",
+      "4": "Louisville",
+      "13": "Davidson",
+      "6": "Murray St.",
+      "11": "Colorado St.",
+      "3": "Marquette",
+      "7": "Florida",
+      "10": "Virginia",
+      "2": "Missouri",
+      "15": "Norfolk St."
+    }
+  },
+  "2013": {
+    "East": {
+      "16": [
+        "LIU",
+        "James Madison"
+      ],
+      "1": "Indiana",
+      "8": "N.C. State",
+      "9": "Temple",
+      "5": "UNLV",
+      "12": "California",
+      "4": "Syracuse",
+      "13": "Montana",
+      "6": "Butler",
+      "11": "Bucknell",
+      "3": "Marquette",
+      "14": "Davidson",
+      "7": "Illinois",
+      "10": "Colorado",
+      "2": "Miami FL",
+      "15": "Pacific"
+    },
+    "Midwest": {
+      "16": [
+        "North Carolina A&T",
+        "Liberty"
+      ],
+      "11": [
+        "Saint Mary's",
+        "Middle Tennessee"
+      ],
+      "1": "Louisville",
+      "8": "Colorado St.",
+      "9": "Missouri",
+      "5": "Oklahoma St.",
+      "12": "Oregon",
+      "4": "Saint Louis",
+      "13": "New Mexico St.",
+      "6": "Memphis",
+      "3": "Michigan St.",
+      "14": "Valparaiso",
+      "7": "Creighton",
+      "10": "Cincinnati",
+      "2": "Duke",
+      "15": "Albany (NY)"
+    },
+    "South": {
+      "1": "Kansas",
+      "16": "Western Kentucky",
+      "8": "North Carolina",
+      "9": "Villanova",
+      "5": "VCU",
+      "12": "Akron",
+      "4": "Michigan",
+      "13": "South Dakota St.",
+      "6": "UCLA",
+      "11": "Minnesota",
+      "3": "Florida",
+      "14": "Northwestern St.",
+      "7": "San Diego St.",
+      "10": "Oklahoma",
+      "2": "Georgetown",
+      "15": "Florida Gulf Coast"
+    },
+    "West": {
+      "13": [
+        "La Salle",
+        "Boise St."
+      ],
+      "1": "Gonzaga",
+      "16": "Southern",
+      "8": "Pittsburgh",
+      "9": "Wichita St.",
+      "5": "Wisconsin",
+      "12": "Mississippi",
+      "4": "Kansas St.",
+      "6": "Arizona",
+      "11": "Belmont",
+      "3": "New Mexico",
+      "14": "Harvard",
+      "7": "Notre Dame",
+      "10": "Iowa St.",
+      "2": "Ohio St.",
+      "15": "Iona"
+    }
+  },
+  "2014": {
+    "East": {
+      "1": "Virginia",
+      "16": "Coastal Carolina",
+      "8": "Memphis",
+      "9": "George Washington",
+      "5": "Cincinnati",
+      "12": "Harvard",
+      "4": "Michigan St.",
+      "13": "Delaware",
+      "6": "North Carolina",
+      "11": "Providence",
+      "3": "Iowa St.",
+      "14": "North Carolina Central",
+      "7": "Connecticut",
+      "10": "St. Joseph's",
+      "2": "Villanova",
+      "15": "Milwaukee"
+    },
+    "Midwest": {
+      "11": [
+        "Tennessee",
+        "Iowa"
+      ],
+      "16": [
+        "Texas Southern",
+        "Cal Poly"
+      ],
+      "12": [
+        "Xavier",
+        "N.C. State"
+      ],
+      "1": "Wichita St.",
+      "8": "Kentucky",
+      "9": "Kansas St.",
+      "5": "Saint Louis",
+      "4": "Louisville",
+      "13": "Manhattan",
+      "6": "UMass",
+      "3": "Duke",
+      "14": "Mercer",
+      "7": "Texas",
+      "10": "Arizona St.",
+      "2": "Michigan",
+      "15": "Wofford"
+    },
+    "South": {
+      "16": [
+        "Mount St. Mary's",
+        "Albany (NY)"
+      ],
+      "1": "Florida",
+      "8": "Colorado",
+      "9": "Pittsburgh",
+      "5": "VCU",
+      "12": "Stephen F. Austin",
+      "4": "UCLA",
+      "13": "Tulsa",
+      "6": "Ohio St.",
+      "11": "Dayton",
+      "3": "Syracuse",
+      "14": "Western Michigan",
+      "7": "New Mexico",
+      "10": "Stanford",
+      "2": "Kansas",
+      "15": "Eastern Kentucky"
+    },
+    "West": {
+      "1": "Arizona",
+      "16": "Weber St.",
+      "8": "Gonzaga",
+      "9": "Oklahoma St.",
+      "5": "Oklahoma",
+      "12": "North Dakota St.",
+      "4": "San Diego St.",
+      "13": "New Mexico St.",
+      "6": "Baylor",
+      "11": "Nebraska",
+      "3": "Creighton",
+      "14": "Louisiana",
+      "7": "Oregon",
+      "10": "BYU",
+      "2": "Wisconsin",
+      "15": "American"
+    }
+  },
+  "2015": {
+    "East": {
+      "11": [
+        "Dayton",
+        "Boise St."
+      ],
+      "1": "Villanova",
+      "16": "Lafayette",
+      "8": "N.C. State",
+      "9": "LSU",
+      "5": "Northern Iowa",
+      "12": "Wyoming",
+      "4": "Louisville",
+      "13": "UC Irvine",
+      "6": "Providence",
+      "3": "Oklahoma",
+      "14": "Albany (NY)",
+      "7": "Michigan St.",
+      "10": "Georgia",
+      "2": "Virginia",
+      "15": "Belmont"
+    },
+    "Midwest": {
+      "16": [
+        "Manhattan",
+        "Hampton"
+      ],
+      "1": "Kentucky",
+      "8": "Cincinnati",
+      "9": "Purdue",
+      "5": "West Virginia",
+      "12": "Buffalo",
+      "4": "Maryland",
+      "13": "Valparaiso",
+      "6": "Butler",
+      "11": "Texas",
+      "3": "Notre Dame",
+      "14": "Northeastern",
+      "7": "Wichita St.",
+      "10": "Indiana",
+      "2": "Kansas",
+      "15": "New Mexico St."
+    },
+    "South": {
+      "16": [
+        "Robert Morris",
+        "North Florida"
+      ],
+      "1": "Duke",
+      "8": "San Diego St.",
+      "9": "St. John's",
+      "5": "Utah",
+      "12": "Stephen F. Austin",
+      "4": "Georgetown",
+      "13": "Eastern Washington",
+      "6": "SMU",
+      "11": "UCLA",
+      "3": "Iowa St.",
+      "14": "UAB",
+      "7": "Iowa",
+      "10": "Davidson",
+      "2": "Gonzaga",
+      "15": "North Dakota St."
+    },
+    "West": {
+      "11": [
+        "Mississippi",
+        "BYU"
+      ],
+      "1": "Wisconsin",
+      "16": "Coastal Carolina",
+      "8": "Oregon",
+      "9": "Oklahoma St.",
+      "5": "Arkansas",
+      "12": "Wofford",
+      "4": "North Carolina",
+      "13": "Harvard",
+      "6": "Xavier",
+      "3": "Baylor",
+      "14": "Georgia St.",
+      "7": "VCU",
+      "10": "Ohio St.",
+      "2": "Arizona",
+      "15": "Texas Southern"
+    }
+  },
+  "2016": {
+    "East": {
+      "16": [
+        "Fairleigh Dickinson",
+        "Florida Gulf Coast"
+      ],
+      "11": [
+        "Tulsa",
+        "Michigan"
+      ],
+      "1": "North Carolina",
+      "8": "USC",
+      "9": "Providence",
+      "5": "Indiana",
+      "12": "Chattanooga",
+      "4": "Kentucky",
+      "13": "Stony Brook",
+      "6": "Notre Dame",
+      "3": "West Virginia",
+      "14": "Stephen F. Austin",
+      "7": "Wisconsin",
+      "10": "Pittsburgh",
+      "2": "Xavier",
+      "15": "Weber St."
+    },
+    "Midwest": {
+      "1": "Virginia",
+      "16": "Hampton",
+      "8": "Texas Tech",
+      "9": "Butler",
+      "5": "Purdue",
+      "12": "Little Rock",
+      "4": "Iowa St.",
+      "13": "Iona",
+      "6": "Seton Hall",
+      "11": "Gonzaga",
+      "3": "Utah",
+      "14": "Fresno St.",
+      "7": "Dayton",
+      "10": "Syracuse",
+      "2": "Michigan St.",
+      "15": "Middle Tennessee"
+    },
+    "South": {
+      "11": [
+        "Wichita St.",
+        "Vanderbilt"
+      ],
+      "1": "Kansas",
+      "16": "Austin Peay",
+      "8": "Colorado",
+      "9": "Connecticut",
+      "5": "Maryland",
+      "12": "South Dakota St.",
+      "4": "California",
+      "13": "Hawaii",
+      "6": "Arizona",
+      "3": "Miami FL",
+      "14": "Buffalo",
+      "7": "Iowa",
+      "10": "Temple",
+      "2": "Villanova",
+      "15": "UNC Asheville"
+    },
+    "West": {
+      "16": [
+        "Southern",
+        "Holy Cross"
+      ],
+      "1": "Oregon",
+      "8": "St. Joseph's",
+      "9": "Cincinnati",
+      "5": "Baylor",
+      "12": "Yale",
+      "4": "Duke",
+      "13": "UNC Wilmington",
+      "6": "Texas",
+      "11": "Northern Iowa",
+      "3": "Texas A&M",
+      "14": "Green Bay",
+      "7": "Oregon St.",
+      "10": "VCU",
+      "2": "Oklahoma",
+      "15": "Cal St. Bakersfield"
+    }
+  },
+  "2017": {
+    "East": {
+      "16": [
+        "New Orleans",
+        "Mount St. Mary's"
+      ],
+      "11": [
+        "USC",
+        "Providence"
+      ],
+      "1": "Villanova",
+      "8": "Wisconsin",
+      "9": "Virginia Tech",
+      "5": "Virginia",
+      "12": "UNC Wilmington",
+      "4": "Florida",
+      "13": "ETSU",
+      "6": "SMU",
+      "3": "Baylor",
+      "14": "New Mexico St.",
+      "7": "South Carolina",
+      "10": "Marquette",
+      "2": "Duke",
+      "15": "Troy"
+    },
+    "Midwest": {
+      "16": [
+        "UC Davis",
+        "North Carolina Central"
+      ],
+      "1": "Kansas",
+      "8": "Miami FL",
+      "9": "Michigan St.",
+      "5": "Iowa St.",
+      "12": "Nevada",
+      "4": "Purdue",
+      "13": "Vermont",
+      "6": "Creighton",
+      "11": "Rhode Island",
+      "3": "Oregon",
+      "14": "Iona",
+      "7": "Michigan",
+      "10": "Oklahoma St.",
+      "2": "Louisville",
+      "15": "Jacksonville St."
+    },
+    "South": {
+      "11": [
+        "Wake Forest",
+        "Kansas St."
+      ],
+      "1": "North Carolina",
+      "16": "Texas Southern",
+      "8": "Arkansas",
+      "9": "Seton Hall",
+      "5": "Minnesota",
+      "12": "Middle Tennessee",
+      "4": "Butler",
+      "13": "Winthrop",
+      "6": "Cincinnati",
+      "3": "UCLA",
+      "14": "Kent St.",
+      "7": "Dayton",
+      "10": "Wichita St.",
+      "2": "Kentucky",
+      "15": "Northern Kentucky"
+    },
+    "West": {
+      "1": "Gonzaga",
+      "16": "South Dakota St.",
+      "8": "Northwestern",
+      "9": "Vanderbilt",
+      "5": "Notre Dame",
+      "12": "Princeton",
+      "4": "West Virginia",
+      "13": "Bucknell",
+      "6": "Maryland",
+      "11": "Xavier",
+      "3": "Florida St.",
+      "14": "Florida Gulf Coast",
+      "7": "Saint Mary's",
+      "10": "VCU",
+      "2": "Arizona",
+      "15": "North Dakota"
+    }
+  },
+  "2018": {
+    "East": {
+      "16": [
+        "LIU",
+        "Radford"
+      ],
+      "11": [
+        "St. Bonaventure",
+        "UCLA"
+      ],
+      "1": "Villanova",
+      "8": "Virginia Tech",
+      "9": "Alabama",
+      "5": "West Virginia",
+      "12": "Murray St.",
+      "4": "Wichita St.",
+      "13": "Marshall",
+      "6": "Florida",
+      "3": "Texas Tech",
+      "14": "Stephen F. Austin",
+      "7": "Arkansas",
+      "10": "Butler",
+      "2": "Purdue",
+      "15": "Cal St. Fullerton"
+    },
+    "Midwest": {
+      "11": [
+        "Syracuse",
+        "Arizona St."
+      ],
+      "1": "Kansas",
+      "16": "Penn",
+      "8": "Seton Hall",
+      "9": "N.C. State",
+      "5": "Clemson",
+      "12": "New Mexico St.",
+      "4": "Auburn",
+      "13": "Charleston",
+      "6": "TCU",
+      "3": "Michigan St.",
+      "14": "Bucknell",
+      "7": "Rhode Island",
+      "10": "Oklahoma",
+      "2": "Duke",
+      "15": "Iona"
+    },
+    "South": {
+      "1": "Virginia",
+      "16": "UMBC",
+      "8": "Creighton",
+      "9": "Kansas St.",
+      "5": "Kentucky",
+      "12": "Davidson",
+      "4": "Arizona",
+      "13": "Buffalo",
+      "6": "Miami FL",
+      "11": "Loyola (IL)",
+      "3": "Tennessee",
+      "14": "Wright St.",
+      "7": "Nevada",
+      "10": "Texas",
+      "2": "Cincinnati",
+      "15": "Georgia St."
+    },
+    "West": {
+      "16": [
+        "Texas Southern",
+        "North Carolina Central"
+      ],
+      "1": "Xavier",
+      "8": "Missouri",
+      "9": "Florida St.",
+      "5": "Ohio St.",
+      "12": "South Dakota St.",
+      "4": "Gonzaga",
+      "13": "UNC Greensboro",
+      "6": "Houston",
+      "11": "San Diego St.",
+      "3": "Michigan",
+      "14": "Montana",
+      "7": "Texas A&M",
+      "10": "Providence",
+      "2": "North Carolina",
+      "15": "Lipscomb"
+    }
+  },
+  "2019": {
+    "East": {
+      "16": [
+        "North Carolina Central",
+        "North Dakota St."
+      ],
+      "11": [
+        "Temple",
+        "Belmont"
+      ],
+      "1": "Duke",
+      "8": "VCU",
+      "9": "UCF",
+      "5": "Mississippi St.",
+      "12": "Liberty",
+      "4": "Virginia Tech",
+      "13": "Saint Louis",
+      "6": "Maryland",
+      "3": "LSU",
+      "14": "Yale",
+      "7": "Louisville",
+      "10": "Minnesota",
+      "2": "Michigan St.",
+      "15": "Bradley"
+    },
+    "Midwest": {
+      "1": "North Carolina",
+      "16": "Iona",
+      "8": "Utah St.",
+      "9": "Washington",
+      "5": "Auburn",
+      "12": "New Mexico St.",
+      "4": "Kansas",
+      "13": "Northeastern",
+      "6": "Iowa St.",
+      "11": "Ohio St.",
+      "3": "Houston",
+      "14": "Georgia St.",
+      "7": "Wofford",
+      "10": "Seton Hall",
+      "2": "Kentucky",
+      "15": "Abilene Christian"
+    },
+    "South": {
+      "1": "Virginia",
+      "16": "Gardner-Webb",
+      "8": "Mississippi",
+      "9": "Oklahoma",
+      "5": "Wisconsin",
+      "12": "Oregon",
+      "4": "Kansas St.",
+      "13": "UC Irvine",
+      "6": "Villanova",
+      "11": "Saint Mary's",
+      "3": "Purdue",
+      "14": "Old Dominion",
+      "7": "Cincinnati",
+      "10": "Iowa",
+      "2": "Tennessee",
+      "15": "Colgate"
+    },
+    "West": {
+      "16": [
+        "Fairleigh Dickinson",
+        "Prairie View"
+      ],
+      "11": [
+        "St. John's",
+        "Arizona St."
+      ],
+      "1": "Gonzaga",
+      "8": "Syracuse",
+      "9": "Baylor",
+      "5": "Marquette",
+      "12": "Murray St.",
+      "4": "Florida St.",
+      "13": "Vermont",
+      "6": "Buffalo",
+      "3": "Texas Tech",
+      "14": "Northern Kentucky",
+      "7": "Nevada",
+      "10": "Florida",
+      "2": "Michigan",
+      "15": "Montana"
+    }
+  },
+  "2021": {
+    "East": {
+      "16": [
+        "Texas Southern",
+        "Mount St. Mary's"
+      ],
+      "11": [
+        "UCLA",
+        "Michigan St."
+      ],
+      "1": "Michigan",
+      "8": "LSU",
+      "9": "St. Bonaventure",
+      "5": "Colorado",
+      "12": "Georgetown",
+      "4": "Florida St.",
+      "13": "UNC Greensboro",
+      "6": "BYU",
+      "3": "Texas",
+      "14": "Abilene Christian",
+      "7": "Connecticut",
+      "10": "Maryland",
+      "2": "Alabama",
+      "15": "Iona"
+    },
+    "Midwest": {
+      "1": "Illinois",
+      "16": "Drexel",
+      "8": "Loyola (IL)",
+      "9": "Georgia Tech",
+      "5": "Tennessee",
+      "12": "Oregon St.",
+      "4": "Oklahoma St.",
+      "13": "Liberty",
+      "6": "San Diego St.",
+      "11": "Syracuse",
+      "3": "West Virginia",
+      "14": "Morehead St.",
+      "7": "Clemson",
+      "10": "Rutgers",
+      "2": "Houston",
+      "15": "Cleveland St."
+    },
+    "South": {
+      "1": "Baylor",
+      "16": "Hartford",
+      "8": "North Carolina",
+      "9": "Wisconsin",
+      "5": "Villanova",
+      "12": "Winthrop",
+      "4": "Purdue",
+      "13": "North Texas",
+      "6": "Texas Tech",
+      "11": "Utah St.",
+      "3": "Arkansas",
+      "14": "Colgate",
+      "7": "Florida",
+      "10": "Virginia Tech",
+      "2": "Ohio St.",
+      "15": "Oral Roberts"
+    },
+    "West": {
+      "16": [
+        "Appalachian St.",
+        "Norfolk St."
+      ],
+      "11": [
+        "Drake",
+        "Wichita St."
+      ],
+      "1": "Gonzaga",
+      "8": "Oklahoma",
+      "9": "Missouri",
+      "5": "Creighton",
+      "12": "UC Santa Barbara",
+      "4": "Virginia",
+      "13": "Ohio",
+      "6": "USC",
+      "3": "Kansas",
+      "14": "Eastern Washington",
+      "7": "Oregon",
+      "10": "VCU",
+      "2": "Iowa",
+      "15": "Grand Canyon"
+    }
+  },
+  "2022": {
+    "East": {
+      "12": [
+        "Indiana",
+        "Wyoming"
+      ],
+      "1": "Baylor",
+      "16": "Norfolk St.",
+      "8": "North Carolina",
+      "9": "Marquette",
+      "5": "Saint Mary's",
+      "4": "UCLA",
+      "13": "Akron",
+      "6": "Texas",
+      "11": "Virginia Tech",
+      "3": "Purdue",
+      "14": "Yale",
+      "7": "Murray St.",
+      "10": "San Francisco",
+      "2": "Kentucky",
+      "15": "Saint Peter's"
+    },
+    "Midwest": {
+      "16": [
+        "Texas A&M Corpus Chris",
+        "Texas Southern"
+      ],
+      "1": "Kansas",
+      "8": "San Diego St.",
+      "9": "Creighton",
+      "5": "Iowa",
+      "12": "Richmond",
+      "4": "Providence",
+      "13": "South Dakota St.",
+      "6": "LSU",
+      "11": "Iowa St.",
+      "3": "Wisconsin",
+      "14": "Colgate",
+      "7": "USC",
+      "10": "Miami FL",
+      "2": "Auburn",
+      "15": "Jacksonville St."
+    },
+    "South": {
+      "16": [
+        "Bryant",
+        "Wright St."
+      ],
+      "1": "Arizona",
+      "8": "Seton Hall",
+      "9": "TCU",
+      "5": "Houston",
+      "12": "UAB",
+      "4": "Illinois",
+      "13": "Chattanooga",
+      "6": "Colorado St.",
+      "11": "Michigan",
+      "3": "Tennessee",
+      "14": "Longwood",
+      "7": "Ohio St.",
+      "10": "Loyola (IL)",
+      "2": "Villanova",
+      "15": "Delaware"
+    },
+    "West": {
+      "11": [
+        "Notre Dame",
+        "Rutgers"
+      ],
+      "1": "Gonzaga",
+      "16": "Georgia St.",
+      "8": "Boise St.",
+      "9": "Memphis",
+      "5": "Connecticut",
+      "12": "New Mexico St.",
+      "4": "Arkansas",
+      "13": "Vermont",
+      "6": "Alabama",
+      "3": "Texas Tech",
+      "14": "Montana St.",
+      "7": "Michigan St.",
+      "10": "Davidson",
+      "2": "Duke",
+      "15": "Cal St. Fullerton"
+    }
+  },
+  "2023": {
+    "East": {
+      "16": [
+        "Fairleigh Dickinson",
+        "Texas Southern"
+      ],
+      "1": "Purdue",
+      "8": "Memphis",
+      "9": "Florida Atlantic",
+      "5": "Duke",
+      "12": "Oral Roberts",
+      "4": "Tennessee",
+      "13": "Louisiana",
+      "6": "Kentucky",
+      "11": "Providence",
+      "3": "Kansas St.",
+      "14": "Montana St.",
+      "7": "Michigan St.",
+      "10": "USC",
+      "2": "Marquette",
+      "15": "Vermont"
+    },
+    "Midwest": {
+      "11": [
+        "Pittsburgh",
+        "Mississippi St."
+      ],
+      "1": "Houston",
+      "16": "Northern Kentucky",
+      "8": "Iowa",
+      "9": "Auburn",
+      "5": "Miami FL",
+      "12": "Drake",
+      "4": "Indiana",
+      "13": "Kent St.",
+      "6": "Iowa St.",
+      "3": "Xavier",
+      "14": "Kennesaw St.",
+      "7": "Texas A&M",
+      "10": "Penn St.",
+      "2": "Texas",
+      "15": "Colgate"
+    },
+    "South": {
+      "16": [
+        "Southeast Missouri St.",
+        "Texas A&M Corpus Chris"
+      ],
+      "1": "Alabama",
+      "8": "Maryland",
+      "9": "West Virginia",
+      "5": "San Diego St.",
+      "12": "Charleston",
+      "4": "Virginia",
+      "13": "Furman",
+      "6": "Creighton",
+      "11": "N.C. State",
+      "3": "Baylor",
+      "14": "UC Santa Barbara",
+      "7": "Missouri",
+      "10": "Utah St.",
+      "2": "Arizona",
+      "15": "Princeton"
+    },
+    "West": {
+      "11": [
+        "Nevada",
+        "Arizona St."
+      ],
+      "1": "Kansas",
+      "16": "Howard",
+      "8": "Arkansas",
+      "9": "Illinois",
+      "5": "Saint Mary's",
+      "12": "VCU",
+      "4": "Connecticut",
+      "13": "Iona",
+      "6": "TCU",
+      "3": "Gonzaga",
+      "14": "Grand Canyon",
+      "7": "Northwestern",
+      "10": "Boise St.",
+      "2": "UCLA",
+      "15": "UNC Asheville"
+    }
+  },
+  "2024": {
+    "East": {
+      "1": "Connecticut",
+      "16": "Stetson",
+      "8": "Florida Atlantic",
+      "9": "Northwestern",
+      "5": "San Diego St.",
+      "12": "UAB",
+      "4": "Auburn",
+      "13": "Yale",
+      "6": "BYU",
+      "11": "Duquesne",
+      "3": "Illinois",
+      "14": "Morehead St.",
+      "7": "Washington St.",
+      "10": "Drake",
+      "2": "Iowa St.",
+      "15": "South Dakota St."
+    },
+    "Midwest": {
+      "10": [
+        "Colorado St.",
+        "Virginia"
+      ],
+      "16": [
+        "Grambling St.",
+        "Montana St."
+      ],
+      "1": "Purdue",
+      "8": "Utah St.",
+      "9": "TCU",
+      "5": "Gonzaga",
+      "12": "McNeese St.",
+      "4": "Kansas",
+      "13": "Samford",
+      "6": "South Carolina",
+      "11": "Oregon",
+      "3": "Creighton",
+      "14": "Akron",
+      "7": "Texas",
+      "2": "Tennessee",
+      "15": "Saint Peter's"
+    },
+    "South": {
+      "10": [
+        "Colorado",
+        "Boise St."
+      ],
+      "1": "Houston",
+      "16": "Longwood",
+      "8": "Nebraska",
+      "9": "Texas A&M",
+      "5": "Wisconsin",
+      "12": "James Madison",
+      "4": "Duke",
+      "13": "Vermont",
+      "6": "Texas Tech",
+      "11": "N.C. State",
+      "3": "Kentucky",
+      "14": "Oakland",
+      "7": "Florida",
+      "2": "Marquette",
+      "15": "Western Kentucky"
+    },
+    "West": {
+      "16": [
+        "Wagner",
+        "Howard"
+      ],
+      "1": "North Carolina",
+      "8": "Mississippi St.",
+      "9": "Michigan St.",
+      "5": "Saint Mary's",
+      "12": "Grand Canyon",
+      "4": "Alabama",
+      "13": "Charleston",
+      "6": "Clemson",
+      "11": "New Mexico",
+      "3": "Baylor",
+      "14": "Colgate",
+      "7": "Dayton",
+      "10": "Nevada",
+      "2": "Arizona",
+      "15": "Long Beach St."
+    }
+  },
+  "2025": {
+    "East": {
+      "16": [
+        "Mount St. Mary's",
+        "American"
+      ],
+      "1": "Duke",
+      "8": "Mississippi St.",
+      "9": "Baylor",
+      "5": "Oregon",
+      "12": "Liberty",
+      "4": "Arizona",
+      "13": "Akron",
+      "6": "BYU",
+      "11": "VCU",
+      "3": "Wisconsin",
+      "14": "Montana",
+      "7": "Saint Mary's",
+      "10": "Vanderbilt",
+      "2": "Alabama",
+      "15": "Robert Morris"
+    },
+    "Midwest": {
+      "11": [
+        "Xavier",
+        "Texas"
+      ],
+      "1": "Houston",
+      "16": "SIU Edwardsville",
+      "8": "Gonzaga",
+      "9": "Georgia",
+      "5": "Clemson",
+      "12": "McNeese St.",
+      "4": "Purdue",
+      "13": "High Point",
+      "6": "Illinois",
+      "3": "Kentucky",
+      "14": "Troy",
+      "7": "UCLA",
+      "10": "Utah St.",
+      "2": "Tennessee",
+      "15": "Wofford"
+    },
+    "South": {
+      "11": [
+        "North Carolina",
+        "San Diego St."
+      ],
+      "16": [
+        "Saint Francis",
+        "Alabama St."
+      ],
+      "1": "Auburn",
+      "8": "Louisville",
+      "9": "Creighton",
+      "5": "Michigan",
+      "12": "UC San Diego",
+      "4": "Texas A&M",
+      "13": "Yale",
+      "6": "Mississippi",
+      "3": "Iowa St.",
+      "14": "Lipscomb",
+      "7": "Marquette",
+      "10": "New Mexico",
+      "2": "Michigan St.",
+      "15": "Bryant"
+    },
+    "West": {
+      "1": "Florida",
+      "16": "Norfolk St.",
+      "8": "Connecticut",
+      "9": "Oklahoma",
+      "5": "Memphis",
+      "12": "Colorado St.",
+      "4": "Maryland",
+      "13": "Grand Canyon",
+      "6": "Missouri",
+      "11": "Drake",
+      "3": "Texas Tech",
+      "14": "UNC Wilmington",
+      "7": "Kansas",
+      "10": "Arkansas",
+      "2": "St. John's",
+      "15": "Nebraska Omaha"
+    }
+  }
+}
