@@ -90,7 +90,8 @@ march_madness/
 ├── main.py                    # Entry point and CLI argument handling
 ├── requirements.txt           # Python package dependencies
 ├── bracket.py                 # Tournament bracket definitions (2026 format)
-├── scrape_brackets.py         # Historical bracket scraper utility
+├── scripts/
+│   └── scrape_brackets.py     # Historical bracket scraper utility
 ├── data/
 │   └── all_brackets.json      # Bracket data for historical tournaments
 ├── src/
@@ -121,26 +122,9 @@ For each of the `n_sims` simulations:
 - Creates visualization heatmaps of tournament advancement by region
 - Produces PDF report with key insights
 
-## Dependencies
-
-- **pandas**: Data manipulation and analysis
-- **numpy**: Numerical computations
-- **matplotlib & seaborn**: Visualization and PDF generation
-- **selenium**: Web scraping Barttorvik rankings
-- **beautifulsoup4 (bs4)**: HTML parsing for bracket scraping
-- **requests**: HTTP requests for web scraping
-- **tqdm**: Progress bars for simulations
-
 ## Notes
 
 - Simulations use [Barthag](https://barttorvik.com/about.php) ratings as the foundation for team strength
 - Overtime scenarios are accounted for in game modeling via possession count normalization
 - The simulator is stochastic—results vary between runs; use `--n_sims` to control variance
 - PDF reports are generated in the working directory as `MM_Simulation_Report.pdf`
-
-## Future Enhancements
-
-- Multi-year comparative analysis
-- Historical accuracy validation
-- Interactive visualization dashboard
-- Advanced injury impact modeling
